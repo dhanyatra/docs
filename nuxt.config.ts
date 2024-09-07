@@ -13,6 +13,5 @@ export default defineNuxtConfig({
     // https://github.com/nuxt-modules/plausible
     "@nuxtjs/plausible",
   ],
-  ssr: false,
   compatibilityDate: "2024-09-07",
 });
