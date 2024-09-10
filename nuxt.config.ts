@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   app: {
-    baseURL: "/docs/", // Set the base URL for GitHub Pages
+    baseURL: ".", // Set the base URL for GitHub Pages
   },
 
   modules: [
